@@ -11,7 +11,7 @@ public class Calculator : MonoBehaviour
         
         int minusResult = MinusMethod();
 
-        Debug.Log($"´õÇÑ °ª : {addResult} / »« °ª : {minusResult}");
+        Debug.Log($"ë”í•œ ê°’ : {addResult} / ëº€ ê°’ : {minusResult}");
     }
 
     int AddMethod()

@@ -24,7 +24,7 @@ public class Study_ClassStruct : MonoBehaviour
 {
     void Start()
     {
-        Debug.Log("≈¨∑°Ω∫ ----------------------------");
+        Debug.Log("ÌÅ¥ÎûòÏä§ ----------------------------");
         Study_Class c1 = new Study_Class(10);
         Study_Class c2 = c1;
         Debug.Log($"c1 : {c1.number} / c2 : {c2.number}");
@@ -32,7 +32,7 @@ public class Study_ClassStruct : MonoBehaviour
         c1.number = 100;
         Debug.Log($"c1 : {c1.number} / c2 : {c2.number}");
 
-        Debug.Log("±∏¡∂√º ----------------------------");
+        Debug.Log("Íµ¨Ï°∞Ï≤¥ ----------------------------");
         Study_Struct s1 = new Study_Struct(10);
         Study_Struct s2 = s1;
         Debug.Log($"s1 : {s1.number} / s2 : {s2.number}");

@@ -5,9 +5,9 @@ public class StudyLog : MonoBehaviour
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
-        Debug.Log("Start ÇÔ¼ö ½ÇÇà");
-        Debug.LogWarning("Start ÇÔ¼ö ½ÇÇà");
-        Debug.LogError("Start ÇÔ¼ö ½ÇÇà");
+        Debug.Log("Start í•¨ìˆ˜ ì‹¤í–‰");
+        Debug.LogWarning("Start í•¨ìˆ˜ ì‹¤í–‰");
+        Debug.LogError("Start í•¨ìˆ˜ ì‹¤í–‰");
     }
 
     // Update is called once per frame 
